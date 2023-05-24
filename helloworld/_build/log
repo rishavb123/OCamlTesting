@@ -1,5 +1,0 @@
-# dune init project helloworld
-# OCAMLPARAM: unset
-# Shared cache: disabled
-# Workspace root: /mnt/c/Projects/UniversalProjects/OCamlTesting/helloworld
-# Auto-detected concurrency: 16
